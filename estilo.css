@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: white;
+}
+
+
+
+
+
+
+button{
+    height: 2.2em;
+    width: 5.5em;
+    border: none;
+    border-radius: 15%;
+    color: white;
+}
+
+.start-btn{
+    background-color: orange;
+}
+
+.stop-btn{
+    background-color: orange;
+
+}
+
+.pause-btn{
+    background-color: orange;
+}
